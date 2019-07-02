@@ -1,4 +1,4 @@
-#       Byte Adder created as part of a coursework for university. 
+#		Byte Adder created as part of a coursework for university. 
 #		AUTHOR: JAMES LEGGE - https://github.com/HydroZA/
 
 
